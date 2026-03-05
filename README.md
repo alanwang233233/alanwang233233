@@ -18,7 +18,7 @@ class Alan:
     def __init__(self):
         self.name        = "Alan Wang"
         self.age         = "High School Student 🎓"
-        self.location    = China.Shanghai
+        self.location    = China.Shanghai()
         self.languages   = ["PHP", "Python", "Java", "C++"]
         self.interests   = ["Web Development", "Hackintosh", "Open Source"]
         self.goal        = "Building cool things, one commit at a time 🚀"
@@ -40,7 +40,7 @@ me.say_hi()
 class Alan {
     public string $name      = "Alan Wang";
     public string $age       = "High School Student 🎓";
-    public string $location  = "China.Shanghai";
+    public string $location  = $China->Shanghai();
     public array  $languages = ["PHP", "Python", "Java", "C++"];
     public array  $interests = ["Web Development", "Hackintosh", "Open Source"];
     public string $goal      = "Building cool things, one commit at a time 🚀";
@@ -144,9 +144,9 @@ int main() {
 ## 🌱 Currently Learning
 
 - 🐍 Advanced Python (algorithms, automation)
-- 🌐 PHP frameworks (Laravel / Symfony)
+- 🌐 Web frameworks (Laravel / Django)
 - 🤖 Vibe Coding
-- 🔐 Web Security basics
+- ⚙️ C++ (algorithms)
 
 ---
 
@@ -163,8 +163,6 @@ int main() {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailtowzh@gmail.com)
-[![Twitter / X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
 
 </div>
 
