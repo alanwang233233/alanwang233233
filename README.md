@@ -57,7 +57,7 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanwang233233&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=alanwang233233&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -68,6 +68,18 @@ me.say_hi()
 - 🌐 PHP frameworks (Laravel / Symfony)
 - 🗄️ Databases (MySQL, SQLite)
 - 🔐 Web Security basics
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alanwang233233/alanwang233233/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alanwang233233/alanwang233233/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/alanwang233233/alanwang233233/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</div>
 
 ---
 
@@ -98,3 +110,5 @@ me.say_hi()
 *"First, solve the problem. Then, write the code." – John Johnson*
 
 </div>
+
+<img src="./assets/wave.svg" width="100%" alt="footer wave"/>
