@@ -10,13 +10,16 @@
 
 ## 👾 About Me
 
+<details open>
+<summary>🐍 Python</summary>
+
 ```python
 class Alan:
     def __init__(self):
         self.name        = "Alan Wang"
         self.age         = "High School Student 🎓"
         self.location    = China.Shanghai
-        self.languages   = ["PHP", "Python"]
+        self.languages   = ["PHP", "Python", "Java", "C++"]
         self.interests   = ["Web Development", "Hackintosh", "Open Source"]
         self.goal        = "Building cool things, one commit at a time 🚀"
 
@@ -26,6 +29,89 @@ class Alan:
 me = Alan()
 me.say_hi()
 ```
+
+</details>
+
+<details>
+<summary>🐘 PHP</summary>
+
+```php
+<?php
+class Alan {
+    public string $name      = "Alan Wang";
+    public string $age       = "High School Student 🎓";
+    public string $location  = "China.Shanghai";
+    public array  $languages = ["PHP", "Python", "Java", "C++"];
+    public array  $interests = ["Web Development", "Hackintosh", "Open Source"];
+    public string $goal      = "Building cool things, one commit at a time 🚀";
+
+    public function sayHi(): void {
+        echo "Thanks for dropping by! Feel free to explore my repos 😄\n";
+    }
+}
+
+$me = new Alan();
+$me->sayHi();
+?>
+```
+
+</details>
+
+<details>
+<summary>☕ Java</summary>
+
+```java
+public class Alan {
+    String   name      = "Alan Wang";
+    String   age       = "High School Student 🎓";
+    String   location  = "China.Shanghai";
+    String[] languages = {"PHP", "Python", "Java", "C++"};
+    String[] interests = {"Web Development", "Hackintosh", "Open Source"};
+    String   goal      = "Building cool things, one commit at a time 🚀";
+
+    public void sayHi() {
+        System.out.println("Thanks for dropping by! Feel free to explore my repos 😄");
+    }
+
+    public static void main(String[] args) {
+        Alan me = new Alan();
+        me.sayHi();
+    }
+}
+```
+
+</details>
+
+<details>
+<summary>⚙️ C++</summary>
+
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
+
+class Alan {
+public:
+    std::string              name      = "Alan Wang";
+    std::string              age       = "High School Student 🎓";
+    std::string              location  = "China.Shanghai";
+    std::vector<std::string> languages = {"PHP", "Python", "Java", "C++"};
+    std::vector<std::string> interests = {"Web Development", "Hackintosh", "Open Source"};
+    std::string              goal      = "Building cool things, one commit at a time 🚀";
+
+    void sayHi() {
+        std::cout << "Thanks for dropping by! Feel free to explore my repos 😄" << std::endl;
+    }
+};
+
+int main() {
+    Alan me;
+    me.sayHi();
+    return 0;
+}
+```
+
+</details>
 
 ---
 
