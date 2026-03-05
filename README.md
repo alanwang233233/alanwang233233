@@ -3,7 +3,6 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Alan+%F0%9F%91%8B;High+School+Developer+%F0%9F%8E%93;PHP+%26+Python+Enthusiast+%F0%9F%90%8D)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 </div>
 
@@ -16,10 +15,9 @@ class Alan:
     def __init__(self):
         self.name        = "Alan Wang"
         self.age         = "High School Student 🎓"
-        self.location    = "[Your City, Country]"
+        self.location    = China.Shanghai
         self.languages   = ["PHP", "Python"]
-        self.interests   = ["Web Development", "Scripting", "Open Source"]
-        self.hobbies     = ["[Your Hobby 1]", "[Your Hobby 2]"]
+        self.interests   = ["Web Development", "Hackintosh", "Open Source"]
         self.goal        = "Building cool things, one commit at a time 🚀"
 
     def say_hi(self):
@@ -94,7 +92,7 @@ me.say_hi()
 <!-- ✏️ TODO: Replace the placeholder URLs below with your real links before merging! -->
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: mailtowzh@gmail.com)
 [![Twitter / X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
 
