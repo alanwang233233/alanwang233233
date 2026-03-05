@@ -52,20 +52,12 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanwang233233&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanwang233233&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.as93.net/api?username=alanwang233233&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.as93.net/api/top-langs/?username=alanwang233233&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanwang233233&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alanwang233233&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
 </div>
 
 ---
@@ -82,19 +74,16 @@ me.say_hi()
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alanwang233233&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://ghchart.ssh.surf/alanwang233233" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
 
 ## 🤝 Connect with Me
 
-<!-- ✏️ TODO: Replace the placeholder URLs below with your real links before merging! -->
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: mailtowzh@gmail.com)
-[![Twitter / X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailtowzh@gmail.com)
 
 </div>
 
@@ -105,8 +94,6 @@ me.say_hi()
 ### 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alanwang233233&color=6C63FF&style=for-the-badge)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 *"First, solve the problem. Then, write the code." – John Johnson*
 
