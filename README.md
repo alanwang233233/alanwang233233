@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Alan%20Wang&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=High%20School%20Developer%20%7C%20PHP%20%26%20Python%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
+
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Alan+%F0%9F%91%8B;High+School+Developer+%F0%9F%8E%93;PHP+%26+Python+Enthusiast+%F0%9F%90%8D)](https://git.io/typing-svg)
 
@@ -141,6 +143,18 @@ int main() {
 </div>
 
 ---
+
+## 📌 Pinned Repositories
+
+<div align="center">
+
+[![DingraiaPHP-Next](https://github-readme-stats.vercel.app/api/pin/?username=alanwang233233&repo=DingraiaPHP-Next&theme=tokyonight&hide_border=true)](https://github.com/alanwang233233/DingraiaPHP-Next)
+[![Nextcloud-Mirror-Repo](https://github-readme-stats.vercel.app/api/pin/?username=alanwang233233&repo=Nextcloud-Mirror-Repo&theme=tokyonight&hide_border=true)](https://github.com/alanwang233233/Nextcloud-Mirror-Repo)
+
+</div>
+
+---
+
 ## 🌱 Currently Learning
 
 - 🐍 Advanced Python (algorithms, automation)
