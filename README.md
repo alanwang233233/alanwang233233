@@ -136,11 +136,11 @@ int main() {
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanwang233233&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanwang233233&show_icons=true&locale=en&layout=compact" alt="alanwang233233" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanwang233233&show_icons=true&locale=en" alt="alanwang233233" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanwang233233&show_icons=true&locale=en&layout=compact" alt="alanwang233233" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanwang233233&show_icons=true&locale=en" alt="alanwang233233" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alanwang233233&" alt="alanwang233233" /></p>
 ---
 ## 🌱 Currently Learning
 
