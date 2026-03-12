@@ -40,7 +40,7 @@ me.say_hi()
 class Alan {
     public string $name      = "Alan Wang";
     public string $age       = "High School Student 🎓";
-    public string $location  = $China->Shanghai();
+    public string $location  = "China.Shanghai";
     public array  $languages = ["PHP", "Python", "Java", "C++"];
     public array  $interests = ["Web Development", "Hackintosh", "Open Source"];
     public string $goal      = "Building cool things, one commit at a time 🚀";
@@ -141,6 +141,7 @@ int main() {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanwang233233&show_icons=true&locale=en" alt="alanwang233233" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alanwang233233&" alt="alanwang233233" /></p>
+
 ---
 ## 🌱 Currently Learning
 
